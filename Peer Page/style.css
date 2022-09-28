@@ -1,0 +1,12 @@
+body {background: #c7b8f6;}
+img{width: 50%;
+height: 50%;}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  .center {
+    text-align: center
+   }
